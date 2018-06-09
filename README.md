@@ -1,2 +1,2 @@
 # Tourist-Dataset
-Web Scraping using Scrapy Framework
+Web Scraping is a technique employed to extract large amounts of data from websites whereby the data is extracted and saved to a local file. Python provides a framework called Scrapy, is used to efficiently extract data from websites. Data of best tourist places in Jaipur is extracted from https://www.trawell.in/rajasthan/jaipur/places-to-visit-things-to-do . Dataset contains title, category, distance(from railway station), duration, nearby places, rating etc
